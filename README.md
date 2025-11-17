@@ -648,7 +648,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 Kartik Vadhawana
+Copyright (c) 2025 Jas Shah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -667,8 +667,8 @@ copies or substantial portions of the Software.
 
 ### Project Maintainer
 
-**Kartik Vadhawana**
-- 📧 Email: kartikvadhwana7@gmail.com
+**Jas Shah**
+- 📧 Email: jasshah9513@gmail.com
 - 🐙 GitHub: [@Arbiter09](https://github.com/Arbiter09)
 
 ### Support

@@ -1,6 +1,6 @@
 site_name: OmniAssist AI Documentation
 site_description: Intelligent IT Ticket Resolver - Multi-Agent System Powered by Azure OpenAI & AutoGen
-site_author: Kartik Vadhawana
+site_author: Jas Shah
 site_url: https://vkartik-3.github.io/OmniAssist-AI
 
 repo_name: Vkartik-3/OmniAssist-AI
@@ -57,7 +57,7 @@ extra:
       link: https://github.com/kartikvadhawana
       name: GitHub Profile
     - icon: fontawesome/solid/envelope
-      link: mailto:kartikvadhwana7@gmail.com
+      link: mailto:jasshah9513@gmail.com
       name: Email
 
   analytics:
@@ -170,5 +170,5 @@ nav:
     - Contact: about/contact.md
 
 copyright: |
-  Copyright &copy; 2025 <a href="mailto:kartikvadhwana7@gmail.com">Kartik Vadhawana</a> -
+  Copyright &copy; 2025 <a href="mailto:jasshah9513@gmail.com">Jas Shah</a> -
   <a href="#__consent">Change cookie settings</a>

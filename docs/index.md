@@ -200,7 +200,7 @@ Ready to get started?
 
 <div align="center">
 
-**Built with ❤️ by [Kartik Vadhawana](mailto:kartikvadhwana7@gmail.com)**
+**Built with ❤️ by [Jas Shah](mailto:jasshah9513@gmail.com)**
 
 [Report Bug](https://github.com/Vkartik-3/OmniAssist-AI/issues){ .md-button }
 [Request Feature](https://github.com/Vkartik-3/OmniAssist-AI/issues){ .md-button }

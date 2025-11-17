@@ -208,4 +208,4 @@ Now that you have OmniAssist AI running:
 - 📖 **[Full Documentation](../index.md)**
 - 💬 **[GitHub Discussions](https://github.com/Vkartik-3/OmniAssist-AI/discussions)**
 - 🐛 **[Report Issues](https://github.com/Vkartik-3/OmniAssist-AI/issues)**
-- 📧 **[Email Support](mailto:kartikvadhwana7@gmail.com)**
+- 📧 **[Email Support](mailto:jasshah9513@gmail.com)**
