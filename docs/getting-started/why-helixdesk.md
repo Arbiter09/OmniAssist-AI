@@ -1,4 +1,4 @@
-# Why HelixDesk AI?
+# Why OmniAssist AI?
 
 ## The Traditional IT Support Problem
 
@@ -10,7 +10,7 @@ In most companies, IT support faces significant challenges:
 - **Employee productivity loss**: 4-8 hours per ticket waiting time
 - **Support costs**: $25-50 per ticket on average
 
-## The HelixDesk AI Solution
+## The OmniAssist AI Solution
 
 - ⚡ **Instant responses**: 5-10 seconds (not days)
 - 🌙 **24/7 availability**: No waiting for business hours

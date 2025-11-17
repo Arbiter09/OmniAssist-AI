@@ -1,8 +1,8 @@
 # Overview
 
-## What is HelixDesk AI?
+## What is OmniAssist AI?
 
-**HelixDesk AI** (also known as **SupportX AI Assist**) is an intelligent IT support automation system that uses artificial intelligence and multiple AI agents working together to automatically resolve IT tickets.
+**OmniAssist AI** (also known as **SupportX AI Assist**) is an intelligent IT support automation system that uses artificial intelligence and multiple AI agents working together to automatically resolve IT tickets.
 
 ## The Problem We Solve
 
@@ -48,9 +48,9 @@
 
 </div>
 
-### How HelixDesk AI Addresses Each Challenge
+### How OmniAssist AI Addresses Each Challenge
 
-| Challenge | HelixDesk AI Solution |
+| Challenge | OmniAssist AI Solution |
 |-----------|----------------------|
 | **Scalability** | Handles unlimited concurrent tickets—10 or 10,000 users simultaneously |
 | **Knowledge Fragmentation** | Vector search finds the right solution from thousands in milliseconds |
@@ -63,7 +63,7 @@
 
 ## How It Works
 
-Think of HelixDesk AI as a **team of three specialized AI assistants** working together:
+Think of OmniAssist AI as a **team of three specialized AI assistants** working together:
 
 ### :material-sort: Agent 1: The Classifier (The Organizer)
 
@@ -118,7 +118,7 @@ graph TD
     - **IT labor cost**: $50-80 per hour
     - **Employee productivity loss**: 4-8 hours per unresolved ticket
 
-!!! success "HelixDesk AI Performance"
+!!! success "OmniAssist AI Performance"
     - **Response time**: 5-10 seconds
     - **Resolution rate**: 70-85% automated
     - **Cost per ticket**: ~$5 (vs. $35 traditional)
@@ -172,6 +172,6 @@ This architecture can be adapted for:
 
 Ready to dive deeper?
 
-- **[Why HelixDesk AI?](why-helixdesk.md)** - Detailed comparison and benefits
+- **[Why OmniAssist AI?](why-helixdesk.md)** - Detailed comparison and benefits
 - **[Quick Start](quick-start.md)** - Get up and running in 10 minutes
 - **[Architecture Overview](../architecture/overview.md)** - Technical deep dive

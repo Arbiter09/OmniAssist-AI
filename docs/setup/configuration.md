@@ -2,7 +2,7 @@
 
 ## Environment Variables
 
-HelixDesk AI requires several environment variables to function properly. Create a `.env` file in the project root with the following configuration:
+OmniAssist AI requires several environment variables to function properly. Create a `.env` file in the project root with the following configuration:
 
 ```bash
 # Azure OpenAI Configuration

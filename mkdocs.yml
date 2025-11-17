@@ -1,10 +1,10 @@
-site_name: HelixDesk AI Documentation
+site_name: OmniAssist AI Documentation
 site_description: Intelligent IT Ticket Resolver - Multi-Agent System Powered by Azure OpenAI & AutoGen
 site_author: Kartik Vadhawana
-site_url: https://vkartik-3.github.io/HelixDesk-AI
+site_url: https://vkartik-3.github.io/OmniAssist-AI
 
-repo_name: Vkartik-3/HelixDesk-AI
-repo_url: https://github.com/Vkartik-3/HelixDesk-AI
+repo_name: Vkartik-3/OmniAssist-AI
+repo_url: https://github.com/Vkartik-3/OmniAssist-AI
 edit_uri: edit/main/docs/
 
 theme:
@@ -128,7 +128,7 @@ nav:
   - Home: index.md
   - Getting Started:
     - Overview: getting-started/overview.md
-    - Why HelixDesk AI: getting-started/why-helixdesk.md
+    - Why OmniAssist AI: getting-started/why-helixdesk.md
     - Quick Start: getting-started/quick-start.md
   - Setup & Installation:
     - Prerequisites: setup/prerequisites.md

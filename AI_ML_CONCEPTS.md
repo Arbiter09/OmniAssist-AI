@@ -2,7 +2,7 @@
 
 ## Overview
 
-HelixDesk AI leverages cutting-edge artificial intelligence, machine learning, and generative AI technologies to deliver an intelligent, production-ready IT support automation system. This section provides a comprehensive breakdown of every AI/ML concept, technology, and framework used in the project.
+OmniAssist AI leverages cutting-edge artificial intelligence, machine learning, and generative AI technologies to deliver an intelligent, production-ready IT support automation system. This section provides a comprehensive breakdown of every AI/ML concept, technology, and framework used in the project.
 
 ---
 
@@ -310,7 +310,7 @@ def search_similar_solution(query: str, category: str) -> str:
 ```
 
 **RAG vs. Fine-Tuning:**
-| Aspect | RAG (HelixDesk) | Fine-Tuning |
+| Aspect | RAG (OmniAssist) | Fine-Tuning |
 |--------|-----------------|-------------|
 | **Knowledge Updates** | Instant (just update JSON) | Requires retraining ($$$) |
 | **Accuracy** | High (cites sources) | Medium (memorized patterns) |

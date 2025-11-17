@@ -1,6 +1,6 @@
 # Prerequisites
 
-Before installing HelixDesk AI, ensure you have:
+Before installing OmniAssist AI, ensure you have:
 
 ## Required
 

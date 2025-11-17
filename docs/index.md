@@ -1,4 +1,4 @@
-# Welcome to HelixDesk AI
+# Welcome to OmniAssist AI
 
 <div align="center">
 
@@ -13,15 +13,15 @@
 **Intelligent IT Ticket Resolver - Multi-Agent System Powered by Azure OpenAI & AutoGen**
 
 [Get Started](getting-started/quick-start.md){ .md-button .md-button--primary }
-[View on GitHub](https://github.com/Vkartik-3/HelixDesk-AI){ .md-button }
+[View on GitHub](https://github.com/Vkartik-3/OmniAssist-AI){ .md-button }
 
 </div>
 
 ---
 
-## What is HelixDesk AI?
+## What is OmniAssist AI?
 
-**HelixDesk AI** is an intelligent IT support automation system that uses artificial intelligence and multiple AI agents working together to automatically resolve IT tickets—just like a team of IT support specialists working in harmony.
+**OmniAssist AI** is an intelligent IT support automation system that uses artificial intelligence and multiple AI agents working together to automatically resolve IT tickets—just like a team of IT support specialists working in harmony.
 
 ### Simple Explanation
 
@@ -84,13 +84,13 @@ You just type what's wrong in plain English, and **within seconds**, an AI team:
 
 ---
 
-## Why Choose HelixDesk AI?
+## Why Choose OmniAssist AI?
 
 ### Business Impact
 
 For a company with **500 employees**:
 
-| Metric | Traditional IT | With HelixDesk AI |
+| Metric | Traditional IT | With OmniAssist AI |
 |--------|----------------|-------------------|
 | **Monthly Tickets** | 1,000 | 1,000 |
 | **Auto-Resolved** | 0 | 700 (70%) |
@@ -175,7 +175,7 @@ For a company with **500 employees**:
 
 ## What Makes This Different?
 
-| Feature | HelixDesk AI | Traditional Ticketing | Basic Chatbots |
+| Feature | OmniAssist AI | Traditional Ticketing | Basic Chatbots |
 |---------|--------------|----------------------|----------------|
 | **Response Time** | 5-10 seconds | 2-5 days | Instant (but often wrong) |
 | **Accuracy** | 75-85% | 90%+ (human) | 30-50% |
@@ -191,7 +191,7 @@ For a company with **500 employees**:
 
 Ready to get started?
 
-1. **[Understand the System](getting-started/overview.md)** - Learn what HelixDesk AI can do
+1. **[Understand the System](getting-started/overview.md)** - Learn what OmniAssist AI can do
 2. **[Set Up Azure](setup/azure-setup.md)** - Create required Azure resources
 3. **[Install Locally](setup/installation.md)** - Get the application running
 4. **[Customize](customization/adding-solutions.md)** - Adapt to your organization
@@ -202,7 +202,7 @@ Ready to get started?
 
 **Built with ❤️ by [Kartik Vadhawana](mailto:kartikvadhwana7@gmail.com)**
 
-[Report Bug](https://github.com/Vkartik-3/HelixDesk-AI/issues){ .md-button }
-[Request Feature](https://github.com/Vkartik-3/HelixDesk-AI/issues){ .md-button }
+[Report Bug](https://github.com/Vkartik-3/OmniAssist-AI/issues){ .md-button }
+[Request Feature](https://github.com/Vkartik-3/OmniAssist-AI/issues){ .md-button }
 
 </div>

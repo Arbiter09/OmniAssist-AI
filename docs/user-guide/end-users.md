@@ -1,10 +1,10 @@
 # End User Guide
 
-Welcome! This guide will help you use HelixDesk AI to resolve your IT issues quickly.
+Welcome! This guide will help you use OmniAssist AI to resolve your IT issues quickly.
 
 ## How to Submit a Ticket
 
-1. **Open the HelixDesk AI Application**
+1. **Open the OmniAssist AI Application**
    - Navigate to the application URL provided by your IT department
    - You'll see a simple chat interface
 
@@ -23,7 +23,7 @@ Welcome! This guide will help you use HelixDesk AI to resolve your IT issues qui
      - Relevant screenshots or links
      - Escalation to human IT if needed
 
-## What HelixDesk AI Can Help With
+## What OmniAssist AI Can Help With
 
 - **Password Issues**: Reset instructions, account lockouts
 - **Email Problems**: Access issues, configuration help
@@ -38,7 +38,7 @@ Welcome! This guide will help you use HelixDesk AI to resolve your IT issues qui
 
 **You**: "I can't log into my email"
 
-**HelixDesk AI**:
+**OmniAssist AI**:
 > I'll help you resolve your email access issue. Here are the steps:
 >
 > 1. Try resetting your password at portal.office.com
@@ -51,7 +51,7 @@ Welcome! This guide will help you use HelixDesk AI to resolve your IT issues qui
 
 **You**: "My laptop won't connect to the office WiFi"
 
-**HelixDesk AI**:
+**OmniAssist AI**:
 > Let's troubleshoot your WiFi connection:
 >
 > 1. Forget the network and reconnect
@@ -81,4 +81,4 @@ Welcome! This guide will help you use HelixDesk AI to resolve your IT issues qui
 
 ## Need More Help?
 
-If you have questions about using HelixDesk AI, contact your IT department or refer to the [FAQ](../troubleshooting/faq.md).
+If you have questions about using OmniAssist AI, contact your IT department or refer to the [FAQ](../troubleshooting/faq.md).

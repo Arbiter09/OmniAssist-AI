@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Get HelixDesk AI running in **10 minutes**!
+Get OmniAssist AI running in **10 minutes**!
 
 ## Prerequisites Checklist
 
@@ -18,7 +18,7 @@ Before you begin, make sure you have:
 
 === "HTTPS"
     ```bash
-    git clone https://github.com/Vkartik-3/HelixDesk-AI.git
+    git clone https://github.com/Vkartik-3/OmniAssist-AI.git
     cd helixdesk-ai
     ```
 
@@ -187,7 +187,7 @@ For more issues, see [Troubleshooting](../troubleshooting/common-issues.md).
 
 ## Next Steps
 
-Now that you have HelixDesk AI running:
+Now that you have OmniAssist AI running:
 
 1. **[Customize the Knowledge Base](../customization/adding-solutions.md)** - Add your organization's solutions
 2. **[Configure Email Settings](../setup/configuration.md#email-setup)** - Set up escalation emails
@@ -206,6 +206,6 @@ Now that you have HelixDesk AI running:
 ## Need Help?
 
 - 📖 **[Full Documentation](../index.md)**
-- 💬 **[GitHub Discussions](https://github.com/Vkartik-3/HelixDesk-AI/discussions)**
-- 🐛 **[Report Issues](https://github.com/Vkartik-3/HelixDesk-AI/issues)**
+- 💬 **[GitHub Discussions](https://github.com/Vkartik-3/OmniAssist-AI/discussions)**
+- 🐛 **[Report Issues](https://github.com/Vkartik-3/OmniAssist-AI/issues)**
 - 📧 **[Email Support](mailto:kartikvadhwana7@gmail.com)**
